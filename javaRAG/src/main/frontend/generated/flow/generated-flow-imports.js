@@ -89,6 +89,12 @@ import '@vaadin/grid/theme/lumo/vaadin-grid-tree-toggle.js';
 import '@vaadin/upload/theme/lumo/vaadin-upload.js';
 import '@vaadin/virtual-list/theme/lumo/vaadin-virtual-list.js';
 import 'Frontend/generated/jar-resources/virtualListConnector.js';
+import '@vaadin/vaadin-lumo-styles/color-global.js';
+import '@vaadin/vaadin-lumo-styles/typography-global.js';
+import '@vaadin/vaadin-lumo-styles/sizing.js';
+import '@vaadin/vaadin-lumo-styles/spacing.js';
+import '@vaadin/vaadin-lumo-styles/style.js';
+import '@vaadin/vaadin-lumo-styles/vaadin-iconset.js';
 const loadOnDemand = (key) => { return Promise.resolve(0); }
 window.Vaadin = window.Vaadin || {};
 window.Vaadin.Flow = window.Vaadin.Flow || {};
