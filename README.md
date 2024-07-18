@@ -1,8 +1,8 @@
 
+![](javaRAG/Project_Samples/img.png)
 
 # Java-RAG-with-Spring-AI
 A local AI chatbot using Java and Spring Boot, leveraging LangChain4j and a local Ollama
-![](javaRAG/Project_Samples/img.png)
 
 
 ![](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
